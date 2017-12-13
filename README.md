@@ -1,1 +1,1 @@
-# RuMoney
+# RusMoney
